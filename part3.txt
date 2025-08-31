@@ -3,6 +3,7 @@ Class: CPE159_OperatingSystemPragmatics
 Instructor: Dr. Peng Kang
 Assignment: Phase0 Part3
 
+-----------------------------------------------------------------------
 Step1: Cloning Repository
 $ git clone git@github.com:CSUS-CS-CPE159/phase0-hmlegit.git
 Cloning into 'phase0-hmlegit'...
@@ -12,10 +13,12 @@ remote: Compressing objects: 100% (8/8), done.
 remote: Total 10 (delta 0), reused 8 (delta 0), pack-reused 0 (from 0)
 Receiving objects: 100% (10/10), done.
 
+-----------------------------------------------------------------------
 Step2: Compiling Source Code
 $ make
 Done linking "build/HMOS.dli" (with GDB enabled) at 1m.
 
+-----------------------------------------------------------------------
 Step3: Starting the SPEDE Target
 $ spede-target
 Launching SPEDE target to run in the background
@@ -23,6 +26,7 @@ Launching SPEDE target to run in the background
 $ spede-target -q
 The SPEDE Target has quit. Exiting...
 
+-----------------------------------------------------------------------
 Step4: Running Code
 $ make run
 Done linking "build/HMOS.dli" (with GDB enabled) at 1m.
