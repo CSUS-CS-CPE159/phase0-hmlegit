@@ -1,7 +1,8 @@
 Author: Hue Moua
 Class: CPE159_OperatingSystemPragmatics
 Instructor: Dr. Peng Kang
-Assignment: Phase0 Part3
+Assignment: Phase0 Part3 Building and Running Code
+Date: August 31, 2025
 
 -----------------------------------------------------------------------
 Step1: Cloning Repository
